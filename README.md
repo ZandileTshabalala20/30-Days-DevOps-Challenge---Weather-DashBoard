@@ -38,3 +38,8 @@ weather-dashboard/
 ├── .env
 ├── .gitignore
 └── requirements.txt
+
+
+Screenshot
+images/weather_bucket.png
+images/Philadelphia_forecast.png

@@ -1,4 +1,5 @@
 Weather Data Collection System - DevOps Day 1 Challenge
+
 Project Overview
 This project is a Weather Data Collection System that demonstrates core DevOps principles by combining:
 
@@ -37,7 +38,7 @@ weather-dashboard/
 ## Setup Instructions
 1. Clone the repository:
 --bash
-git clone https://github.com/ShaeInTheCloud/30days-weather-dashboard.git
+https://github.com/ZandileTshabalala20/30-Days-DevOps-Challenge---Weather-DashBoard.git
 
 3. Install dependencies:
 bashCopypip install -r requirements.txt
